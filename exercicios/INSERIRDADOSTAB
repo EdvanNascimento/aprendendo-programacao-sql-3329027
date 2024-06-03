@@ -1,0 +1,4 @@
+INSERT INTO salario_classe(nivel, salario)
+VALUES 
+('estagiaria', 8500),
+('coordenação de área', 10700);
